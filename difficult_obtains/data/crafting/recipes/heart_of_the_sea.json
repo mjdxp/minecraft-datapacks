@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#N#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "N": {
+            "item": "minecraft:nautilus_shell"
+        }
+    },
+    "result": {
+        "item": "minecraft:heart_of_the_sea",
+        "count": 1
+    }
+}

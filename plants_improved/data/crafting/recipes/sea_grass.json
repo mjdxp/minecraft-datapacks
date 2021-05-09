@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:grass"
+        },
+        {
+            "item": "minecraft:grass"
+        },
+        {
+            "item": "minecraft:grass"
+        },
+        {
+            "item": "minecraft:grass"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        },
+        {
+            "item": "minecraft:grass"
+        },
+        {
+            "item": "minecraft:grass"
+        },
+        {
+            "item": "minecraft:grass"
+        },
+        {
+            "item": "minecraft:grass"
+        }
+    ],
+    "result": {
+        "item": "minecraft:seagrass",
+        "count": 8
+    }
+}

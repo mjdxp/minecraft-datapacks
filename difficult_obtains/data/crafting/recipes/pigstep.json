@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:nether_gold_ore"
+        },
+        {
+            "item": "minecraft:nether_gold_ore"
+        },
+        {
+            "item": "minecraft:nether_gold_ore"
+        },
+        {
+            "item": "minecraft:nether_gold_ore"
+        },
+        {
+            "item": "minecraft:chiseled_polished_blackstone"
+        },
+        {
+            "item": "minecraft:nether_gold_ore"
+        },
+        {
+            "item": "minecraft:nether_gold_ore"
+        },
+        {
+            "item": "minecraft:nether_gold_ore"
+        },
+        {
+            "item": "minecraft:nether_gold_ore"
+        }
+    ],
+    "result": {
+        "item": "minecraft:music_disc_pigstep",
+        "count": 1
+    }
+}

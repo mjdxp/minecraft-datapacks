@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "___",
+        "_F_",
+        "___"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:oak_slab"
+        },
+        "F": {
+            "item": "minecraft:fire_charge"
+        }
+    },
+    "result": {
+        "item": "minecraft:petrified_oak_slab",
+        "count": 8
+    }
+}

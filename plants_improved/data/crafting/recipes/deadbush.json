@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:azalea"
+        },
+        {
+            "item": "minecraft:azalea"
+        },
+        {
+            "item": "minecraft:azalea"
+        },
+        {
+            "item": "minecraft:azalea"
+        },
+        {
+            "item": "minecraft:wither_rose"
+        },
+        {
+            "item": "minecraft:azalea"
+        },
+        {
+            "item": "minecraft:azalea"
+        },
+        {
+            "item": "minecraft:azalea"
+        },
+        {
+            "item": "minecraft:azalea"
+        }
+    ],
+    "result": {
+        "item": "minecraft:dead_bush",
+        "count": 8
+    }
+}

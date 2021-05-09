@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:poppy"
+        },
+        {
+            "item": "minecraft:poppy"
+        },
+        {
+            "item": "minecraft:poppy"
+        },
+        {
+            "item": "minecraft:poppy"
+        },
+        {
+            "item": "minecraft:wither_rose"
+        },
+        {
+            "item": "minecraft:poppy"
+        },
+        {
+            "item": "minecraft:poppy"
+        },
+        {
+            "item": "minecraft:poppy"
+        },
+        {
+            "item": "minecraft:poppy"
+        }
+    ],
+    "result": {
+        "item": "minecraft:wither_rose",
+        "count": 9
+    }
+}
