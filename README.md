@@ -18,6 +18,12 @@ Crafting recipies have also been added to make non renewable stone blocks renewa
 - Netherrack can be crafted using a fire charge and eight pieces of cobblestone, giving eight pieces of netherrack.
 - Tuff can be crafted with cobblestone and smooth basalt.
 
+Copper can be aged by putting 8 copper and a water bucket into a crafting table.
+
+The Stonecutter can be used to convert blocks such as stone bricks back to stone. It can also be used to turn copper, iron, and gold blocks into their raw varients.
+
+Stone and Deepslate can be put into the stonecutter to turn them into their cobbled varients.
+
 <h2>Plants Improved</h2>
 This pack adds crafting recipies to make certain plants easier to obtain. All recipies are shapeless unless specified.
 
