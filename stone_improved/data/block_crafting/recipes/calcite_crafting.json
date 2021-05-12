@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:diorite"
+        },
+        {
+            "item": "minecraft:smooth_basalt"
+        }
+    ],
+    "result": {
+        "item": "minecraft:calcite",
+        "count": 2
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cut_copper"
+        },
+        {
+            "item": "minecraft:cut_copper"
+        },
+        {
+            "item": "minecraft:cut_copper"
+        },
+        {
+            "item": "minecraft:cut_copper"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        },
+        {
+            "item": "minecraft:cut_copper"
+        },
+        {
+            "item": "minecraft:cut_copper"
+        },
+        {
+            "item": "minecraft:cut_copper"
+        },
+        {
+            "item": "minecraft:cut_copper"
+        }
+    ],
+    "result": {
+        "item": "minecraft:oxidized_cut_copper",
+        "count": 8
+    }
+}

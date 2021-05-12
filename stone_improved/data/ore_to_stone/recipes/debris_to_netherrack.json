@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "ancient_debris"
+    },
+    "result": "minecraft:netherrack",
+    "count": 1
+}

@@ -1,0 +1,36 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        },
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:copper_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:oxidized_copper",
+        "count": 8
+    }
+}

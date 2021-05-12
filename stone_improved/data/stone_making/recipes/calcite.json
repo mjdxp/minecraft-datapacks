@@ -1,0 +1,8 @@
+{
+    "type": "stonecutting",
+    "ingredient": {
+        "item": "minecraft:calcite"
+    },
+    "result": "minecraft:stone",
+    "count": 1
+}

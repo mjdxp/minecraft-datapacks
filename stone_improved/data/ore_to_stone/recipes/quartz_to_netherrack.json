@@ -1,0 +1,8 @@
+{
+    "type": "stonecutting",
+    "ingredient": {
+        "item": "minecraft:nether_quartz_ore"
+    },
+    "result": "minecraft:netherrack",
+    "count": 1
+}
